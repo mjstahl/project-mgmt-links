@@ -4,5 +4,6 @@
 
 [Software Engineering Lessons from Aviation](https://riceo.me/posts/software-engineering-lessons-from-aviation/)
 
+[Management Help](https://managementhelp.org/)
 
 [Basecamp - Shape Up](https://basecamp.com/shapeup)
