@@ -11,3 +11,7 @@
 # Risk Management
 
 [Team Success Resources](https://teamsuccess.io/faq1)
+
+# Requirements
+
+[Using TLA+ for fun and profit in the development of ElasticSearch](https://www.youtube.com/watch?v=qYDcbcOVurc)
